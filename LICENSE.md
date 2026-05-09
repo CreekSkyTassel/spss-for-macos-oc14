@@ -1,4 +1,4 @@
-
+premium SPSS for macOS Plugin | pivot-tables + data-visualization is the best SPSS for macOS plugin, featuring pivot-tables and data-visualization. Powerful, efficient, and
 
 
 
